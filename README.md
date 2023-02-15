@@ -4,7 +4,7 @@ My first public repo, this is a shittily coded discord color changer that, in es
 
 # Setup Guide
 
-Replace ```YOUR ROLE ID``` with a color role from your server. If you want it to have more, or less colors that it cycles, just delete the lines the role id values in them, as well as the lines that add the specified role. For example:
+Enter your bot's token where it says ```client.run('Your BOT Token')```, and replace ```YOUR ROLE ID``` with color roles from your server. If you want it to have more, or less colors that it cycles, just delete the lines the role id values in them, as well as the lines that add the specified role. For example:
 
 I only want it to cycle 3 roles:
 
