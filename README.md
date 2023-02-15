@@ -29,6 +29,8 @@ async def colourchange(inter):
         await inter.author.add_roles(role1)
 
 ```
+If you want to add more, just add variables with the role id, and copy and paste the lines with add_roles, and remove_roles in the same structure as I have it written.
+
 
 I believe you'll need the disnake lib for this, or convert it to use discord.py.
 Chances are I won't update for a while if ever.
